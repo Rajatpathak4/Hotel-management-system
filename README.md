@@ -1,1 +1,1 @@
-# Hotel-management-system
+# Student-Management-System
